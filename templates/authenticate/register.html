@@ -1,0 +1,24 @@
+{% extends "authenticate/base.html" %}
+{% load static %}
+
+{% block title_block %}Register{% endblock title_block %}
+
+{% block body_block %}
+
+
+    <div class="row justify-content-center">
+      <div class="col-xl-10 col-lg-12 col-md-9">
+        <div class="card o-hidden border-0 my-5">
+          <div class="card-body p-0">               
+            <div class="row" style="background-color:inherit">            
+              <div class="col-lg-6 p-0">                 
+                <a href="{% url 'authenticate:register_student' %}" style="padding: 5rem;border-radius:0;font-size:2rem;" class="btn btn-success btn-user btn-block text-lg">I am a Student</a>                
+              </div>
+              <div class="col-lg-6 p-0">                  
+                <a href="{% url 'authenticate:register_faculty' %}" style="padding: 5rem;border-radius:0;font-size:2rem;" class="btn btn-warning btn-user btn-block text-lg">I am a Faculty</a>                
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+{% endblock body_block %}%

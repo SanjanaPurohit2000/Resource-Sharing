@@ -1,0 +1,69 @@
+UNIT 1
+
+What is software? Explain its different characteristics and components.
+
+Explain incremental model for system development.
+
+What is software prototyping? Explain its significance in software engineering with example.
+
+Draw and explain Process Framework.
+
+Write short note on concurrent development.
+
+Draw and explain software engineering layers.
+
+Describe generic view of software Engineering.
+
+Explain in brief the spiral model  & its advantages with example
+
+What do you mean by software model? Explain each model in detail.
+
+List out the Software process model which is used in situations where requirements are well defined and stable. Explain any one Software Model
+
+What is Software Engineering? What is the role of software engineer? Compare Hardware and Software product characteristic.
+
+Compare Prototype Model and Spiral Model. / Incremental vs. Spiral Model
+
+Which type of application suit waterfall and RAD? Justify your answer
+
+Once we write the program and get it to work, our job is done. State True / False
+
+A software system exists for one reason: to provide value to its user. State True / False
+
+Phase pattern defines a problem associated with SE action. State True / False
+
+Which model incurs more cost? a) RAD b)Prototyping c) Spiral d) All of these
+
+Software configuration belongs to which of the following activities? a) Umbrella activity b) Economic activity c) None of these d)All of the above
+
+Distinguish between a program and a software product.
+
+UNIT 2
+
+List and explain requirement engineering tasks.
+
+What is requirement engineering? Explain various types of requirement.
+
+Explain requirement engineering process.
+
+How to collect requirement? Explain different methods to collect requirement(Eliciting requirement). What is its importance in Software Engineering? Explain Requirement Validation.
+
+Explain Functional Requirement and Non Functional Requirement with example of Hospital Management System
+
+Explain Functional Requirement and Non Functional Requirement with example of Mobile Device
+
+Prepare and discuss SRS format/structure.
+
+What is the need for feasibility study? Explain different feasibility study?
+
+Explain characteristics of good SRS.
+
+Design should be traceable to the requirement model. State True / False.
+
+Explain with example Earned Value Analysis.
+
+SRS is a document that is created when a details description of all aspects is required. State True / False Justify
+
+A Library lends books and magazines to member, who is registered in the system. Also it handles the purchase of new titles for the Library. Popular titles are bought into multiples copies. Old books and magazines are removed when they are out or date or in poor condition. A member can reserve a book or magazine that is not currently available in the library, so that when it is returned or purchased by the library, that person is notified. The library can easily create, replace and delete information about the tiles, members, loans and reservation in the system. Prepare Software Requirement Specification and Use Case Diagram.
+
+Software is to be developed for hotel management system in which information is provided for all type of activities conducted in hotel. The major users of the system are hotel staff, people who stay in the hotel and people who visit the restaurant. Information for the billing system, hotel account management, staff salary, hotel menu information, hotel room information is provided by software. Prepare Software Requirement Specification and Use Case Diagram.
